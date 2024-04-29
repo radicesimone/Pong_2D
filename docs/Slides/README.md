@@ -1,0 +1,1 @@
+# Cartella che contiene le slide di presentazione Power Point del progetto

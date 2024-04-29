@@ -1,0 +1,1 @@
+# Cartella che contiene la documentazione UML
